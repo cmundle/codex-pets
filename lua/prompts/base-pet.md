@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Lua.
+
+Pet identity: Preserve Lua as a sweet female silver tabby Maine Coon: long smoky silver coat, darker forehead and cheek stripes, large tufted ears, bright green almond eyes, small dark nose, huge white chest ruff, white muzzle, and white front mittens. Compact sprite-readable whole body with a magnificent fluffy tail. Her signature resting and sleeping behavior is eyes peacefully closed with both front paws placed neatly together beneath her chest, based on the sleeping reference. Gentle, affectionate personality; no collar or props..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Polished soft painterly mascot illustration grounded closely in the photographs, with simplified readable fur masses and markings suitable for 192x208 animation cells..
+
+
+Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.
