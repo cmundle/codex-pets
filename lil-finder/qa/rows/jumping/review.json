@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/jumping/frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/jumping/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13124,
+          "bbox": [
+            35,
+            58,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 80
+        },
+        {
+          "index": 1,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/jumping/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14186,
+          "bbox": [
+            31,
+            26,
+            161,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 105
+        },
+        {
+          "index": 2,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/jumping/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13390,
+          "bbox": [
+            31,
+            5,
+            161,
+            157
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        },
+        {
+          "index": 3,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/jumping/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14123,
+          "bbox": [
+            31,
+            26,
+            161,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 91
+        },
+        {
+          "index": 4,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/jumping/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13335,
+          "bbox": [
+            35,
+            58,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 83
+        }
+      ]
+    }
+  ]
+}

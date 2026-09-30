@@ -1,0 +1,1 @@
+Lil Finder's feet and torso remain anchored. His oversized head leads each gaze with a small pitch or yaw; the stepped nose seam and both dot eyes move with the face surface, while the shoulders follow only slightly. Extreme side looks may occlude the far eye but must preserve the split blue-and-white construction. No whole-sprite rotation or floating pupils.

@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "atlas": "/Users/christopher/GitHub/codex-pets/lil-finder/final/spritesheet-extended.png",
+  "encoded_bytes": 2356745,
+  "sha256": "879b9c6a8cfa9f1bedb9a6caec7d5ae03c415eae7e55aad9d439cae7b1b13298",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      179,
+      154,
+      178,
+      202
+    ],
+    "airborne_lift_pixels": 48,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      97.0,
+      92.5,
+      93.0,
+      93.0,
+      94.5,
+      97.0,
+      99.5,
+      103.5,
+      94.0,
+      87.5,
+      84.0,
+      88.0,
+      93.0,
+      96.0,
+      98.0,
+      102.0
+    ],
+    "look_widths": [
+      142,
+      137,
+      136,
+      136,
+      135,
+      134,
+      133,
+      133,
+      128,
+      125,
+      124,
+      122,
+      122,
+      122,
+      122,
+      124
+    ],
+    "maximum_center_drift_pixels": 12.0,
+    "maximum_width_ratio": 1.1639344262295082
+  },
+  "errors": [],
+  "warnings": [
+    "157.5->180 diff is a local outlier (3742 pixels vs neighbor average 2450)",
+    "157.5->180 center shift is high (9.7px)",
+    "337.5->000 diff is a local outlier (6393 pixels vs neighbor average 1956)",
+    "337.5->000 sprite area ratio is high (1.33)"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/running/frames",
+  "states": [
+    "running"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/running/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21205,
+          "bbox": [
+            23,
+            7,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 1,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/running/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20432,
+          "bbox": [
+            24,
+            9,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 2,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/running/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20672,
+          "bbox": [
+            23,
+            8,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 168
+        },
+        {
+          "index": 3,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/running/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20768,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 4,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/running/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20837,
+          "bbox": [
+            23,
+            8,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 144
+        },
+        {
+          "index": 5,
+          "file": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/rows/running/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21186,
+          "bbox": [
+            23,
+            7,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        }
+      ]
+    }
+  ]
+}

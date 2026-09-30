@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "/Users/christopher/GitHub/codex-pets/lil-finder/decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        542,
+        725
+      ],
+      "used_pixels": 173726,
+      "edge_pixels": 0,
+      "output": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/look-cardinals/frames/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        542,
+        0,
+        1085,
+        725
+      ],
+      "used_pixels": 167167,
+      "edge_pixels": 0,
+      "output": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/look-cardinals/frames/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1085,
+        0,
+        1628,
+        725
+      ],
+      "used_pixels": 173589,
+      "edge_pixels": 0,
+      "output": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/look-cardinals/frames/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1628,
+        0,
+        2170,
+        725
+      ],
+      "used_pixels": 166251,
+      "edge_pixels": 0,
+      "output": "/Users/christopher/GitHub/codex-pets/lil-finder/qa/look-cardinals/frames/270.png"
+    }
+  ]
+}
